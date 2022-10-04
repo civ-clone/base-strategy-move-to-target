@@ -1,0 +1,1 @@
+{"version":3,"file":"MoveToTarget.js","sourceRoot":"","sources":["MoveToTarget.ts"],"names":[],"mappings":";;;AAAA,sFAGuD;AACvD,wFAGuD;AACvD,gEAAyD;AACzD,8DAAuD;AAEvD,MAAa,YAAa,SAAQ,kBAAQ;IACxC,YACE,qBAAyC,6BAA0B,EACnE,uBAA6C,+BAA4B;QAEzE,KAAK,CAAC,IAAI,wBAAc,CAAC,kBAAkB,EAAE,oBAAoB,CAAC,CAAC,CAAC;IACtE,CAAC;CACF;AAPD,oCAOC;AAED,kBAAe,YAAY,CAAC"}
